@@ -51,8 +51,16 @@ Une attention particulière a été portée à :
 - la fiabilité des résultats
 - le respect des principes RGPD
 
+  ![Graphique 2](images/Graph2.png)
+
 ---
 
 ## 📌 Conclusion
 
 Ce projet m’a permis de développer mes compétences en modélisation de bases de données relationnelles, en manipulation SQL et en analyse de données immobilières.
+
+---
+
+## 📷 Aperçu des tables
+
+![Tables](images/tables.png)
