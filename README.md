@@ -61,6 +61,12 @@ This project helped me develop my skills in relational database modeling, SQL da
 
 ---
 
+## 📷 Tables Overview
+
+![Tables](images/tables.png)
+
+---
+
 <img width="20" src="https://github.com/user-attachments/assets/72fd52aa-5166-461c-8ef6-f51a74c0374a" />
 
 # Analyse du marché immobilier français
@@ -124,6 +130,6 @@ Ce projet m’a permis de développer mes compétences en modélisation de bases
 
 ---
 
-## 📷 Tables Overview (Aperçu des tables)
+## 📷 Aperçu des tables
 
 ![Tables](images/tables.png)
