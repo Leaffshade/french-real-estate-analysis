@@ -1,4 +1,4 @@
-[French version below]
+[French version below / Version française en bas]
 
 <img width="20" src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1e7.svg" /> 
 
